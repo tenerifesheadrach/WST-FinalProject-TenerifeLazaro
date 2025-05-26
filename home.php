@@ -183,7 +183,7 @@
   <ul>
     <li><a href="home.php">Home</a></li>
     <li><a href="aboutus.php">About</a></li>
-    <li><a href="index.php">Logout</a></li>
+    <li><a href="index.php">Log Out</a></li>
   </ul>
 </nav>
 
