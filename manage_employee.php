@@ -125,7 +125,7 @@ if (isset($_POST['update'])) {
     /* Navbar styles */
     .navbar {
       width: 100%;
-      background-color: #0d47a1;
+      background-color: #ff7029;
       color: #fff;
       padding: 1rem 2rem;
       display: flex;
