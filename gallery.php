@@ -203,7 +203,7 @@ $xml = simplexml_load_file('employee.xml');
       <li><a href="manage_employee.php">Employees</a></li>
 	  	<li><a href="gallery.php">Gallery</a></li>
       <li><a href="aboutus.php">About</a></li>
-	   <li><a href="index.php">Logout</a></li>
+	   <li><a href="index.php">Log Out</a></li>
     </ul>
   </nav>
 
