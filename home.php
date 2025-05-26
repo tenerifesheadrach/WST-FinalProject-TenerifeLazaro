@@ -204,8 +204,8 @@
 
   <!-- Intro Text -->
   <div class="intro">
-    <h2>CICT Faculty Information Management System</h2>
-   <p>This system efficiently manages and stores comprehensive information of CICT core faculty, improving data access and enhancing administrative processes within the College of Information and Communications Technology.</p>
+    <h2>CICT Business Analytics Department Management System</h2>
+   <p>This system efficiently manages and stores comprehensive information on Business Analytics faculty, streamlining data access and enhancing academic and administrative processes within the Business Analytics department.</p>
     <button onclick="window.location.href='manage_employee.php'">Get Started</button>
   </div>
 </div>
