@@ -192,9 +192,8 @@
   <!-- Carousel / Image Slides -->
   <div class="carousel">
     <div class="slides" id="slides">
-      <img src="emp1.jpg" alt="Employee 1">
-      <img src="emp2.jpg" alt="Employee 2">
-      <img src="emp3.jpg" alt="Employee 3">
+      <img src="pimentel.jpg" alt="Pimentel Hall - CICT">
+      <img src="elibr.png" alt="BulSU E-library">
     </div>
     <div class="carousel-controls">
       <button onclick="prevSlide()">❮</button>
