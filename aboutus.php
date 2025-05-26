@@ -182,7 +182,7 @@
     <ul>
       <li><a href="home.php">Home</a></li>
       <li><a href="aboutus.php">About</a></li>
-	  <li><a href="index.php">Logout</a></li>
+	  <li><a href="index.php">Log Out</a></li>
     </ul>
   </nav>
 
@@ -192,13 +192,13 @@
     <h2>Meet Our Team</h2>
     <div class="card-container">
       <div class="card">
-        <img src="qvell.jpg" alt="Qvell R. Crisostomo">
-		<h3 style="color: #0d47a1;">Qvell R. Crisostomo</h3>
+        <img src="yesha.jpg" alt="Yesha Nicole R. Lazaro">
+		<h3 style="color: #0d47a1;">Yesha Nicole R. Lazaro</h3>
         <p>Web Developer</p>
       </div>
       <div class="card">
-        <img src="roomer.png" alt="Roomer John R. Sta. Ana">
-		<h3 style="color: #0d47a1;">Roomer John R. Sta. Ana</h3>
+        <img src="sheadrach.png" alt="Sheadrach Joy R. Tenerife">
+		<h3 style="color: #0d47a1;">Sheadrach Joy R. Tenerife</h3>
         <p>Web Developer</p>
       </div>
     </div>
@@ -217,17 +217,17 @@
 
 <script>
   const members = {
-    "Qvell R. Crisostomo": {
-      role: "Web Developer",
+    "Yesha Nicole R. Lazaro": {
+      role: "Web Developer, UI/UX Designer",
       course: "BSIT",
       age: 20,
-      email: "qvell.crisostomo1@gmail.com"
+      email: "lazaro.yeshanicole.bsit@gmail.com"
     },
-    "Roomer John R. Sta. Ana": {
+    "Sheadrach Joy R. Tenerife": {
       role: "Web Developer",
       course: "BSIT",
       age: 20,
-      email: "roomer.staana@gmail.com"
+      email: "tenerife.sheadrachjoy.bsit@gmail.com"
     }
   };
 
