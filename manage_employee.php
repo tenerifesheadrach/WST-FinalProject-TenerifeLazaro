@@ -433,7 +433,7 @@ function filterTable() {
       <td class="department"><?= htmlspecialchars($emp->Department) ?></td>
       <td class="action-links">
         <a href="javascript:void(0)" onclick="openUpdateForm('<?= $emp->EmpID ?>')">Edit</a> |
-        <a href="?delete=<?= $emp->EmpID ?>" onclick="return confirm('Are you sure you want to delete this employee?')">Delete</a>
+        <a href="?delete=<?= $emp->EmpID ?>" onclick="return confirm('Are you sure you want to remove this employee?')">Delete</a>
       </td>
     </tr>
   <?php endforeach; ?>
